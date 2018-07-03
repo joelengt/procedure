@@ -13,8 +13,6 @@ DELIMITER //
  
 CALL proc_sacar_clientes_tipo(34);
 
-/* OFFSET => number od records to avoid */
-
 /* PAGINATION */
 SELECT id, name
 FROM product
