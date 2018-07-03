@@ -37,3 +37,9 @@ FROM product
 ORDER BY id ASC
 LIMIT 10
 OFFSET 30; /* PAGE 4 */
+
+SELECT id, name
+FROM product
+ORDER BY id ASC
+LIMIT 10
+OFFSET 40; /* PAGE 5 */
