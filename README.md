@@ -1,2 +1,2 @@
-# procedure
+# SQL Procedure
 sql procedure simple
